@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+NAME: PAVITHRAN S
+REG NO: 212223240113
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
